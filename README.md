@@ -29,7 +29,7 @@
     <!-- <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> -->
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://www.adobe.com/products/xd/learn/get-started.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" alt="adobe XD" width="45" height="45"/> </a> 
-   <a href="https://www.figma.com/files/recent?fuid=989393505566754248" target="_blank"> <img src="https://sidekickstudios.co/wp-content/uploads/2021/10/Figma.png" alt="Figma" width="45" height="45"/> </a> 
+   <a href="https://www.figma.com/files/recent?fuid=989393505566754248" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="45" height="45"/> </a> 
     <!-- <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>    -->
     
 </p>
