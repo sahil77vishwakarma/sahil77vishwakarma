@@ -6,8 +6,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
-
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **sahil777vishwakarma@gmail.com**
