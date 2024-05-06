@@ -20,12 +20,13 @@
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a> 
     <a href="" target="_blank"> <img src="![image](https://github.com/sahil77vishwakarma/sahil77vishwakarma/assets/79416650/f7ba177e-577a-45c7-8a48-178a9ce34cab)
 "/> </a> 
-    <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/expressjs/expressjs-icon.svg"/> </a> 
+    <a href="" target="_blank"> <img src="![image](https://github.com/sahil77vishwakarma/sahil77vishwakarma/assets/79416650/c55b4e85-32bd-4861-8bbd-d03fa0da7ac9)
+"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <!-- <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>  
-    <!-- <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> -->
+     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>  
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://www.adobe.com/products/xd/learn/get-started.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" alt="adobe XD" width="45" height="45"/> </a> 
    <a href="https://www.figma.com/files/recent?fuid=989393505566754248" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="45" height="45"/> </a> 
