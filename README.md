@@ -18,10 +18,18 @@
    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a> 
-    <a href="" target="_blank"> <img src="![image](https://github.com/sahil77vishwakarma/sahil77vishwakarma/assets/79416650/f7ba177e-577a-45c7-8a48-178a9ce34cab)
-"/> </a> 
-    <a href="" target="_blank"> <img src="![image](https://github.com/sahil77vishwakarma/sahil77vishwakarma/assets/79416650/c55b4e85-32bd-4861-8bbd-d03fa0da7ac9)
-"/> </a> 
+    <a href="" target="_blank"> <img src="https://icons8.com/icon/38561/postgresql"/> </a> 
+   
+    <a href="" target="_blank"> <img src="https://icons8.com/icon/74402/mongodb"/> </a> 
+    
+    <a href="" target="_blank"> <img src="https://icons8.com/icon/VMRAbKfEzssG/sqlite"/> </a> 
+    
+    <a href="" target="_blank"> <img src="https://icons8.com/icon/7I3BjCqe9rjG/flutter"/> </a> 
+        
+    <a href="" target="_blank"> <img src="https://icons8.com/icon/7AFcZ2zirX6Y/dart"/> </a>
+        
+    <a href="" target="_blank"> <img src="https://icons8.com/icon/7I3BjCqe9rjG/flutter"/> </a>
+    <a href="" target="_blank"> <img src="https://icons8.com/icon/kg46nzoJrmTR/express-js"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
