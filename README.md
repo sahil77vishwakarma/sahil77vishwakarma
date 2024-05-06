@@ -18,8 +18,8 @@
    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a> 
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://icons8.com/icon/38561/postgresql"/> </a> 
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src = "https://icons8.com/icon/74402/mongodb"/> </a> 
+    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://icons8.com/icon/38561/postgresql.png"/> </a> 
+    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src = "https://icons8.com/icon/74402/mongodb.png"/> </a> 
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://icons8.com/icon/74402/mongodb"/> </a> 
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://icons8.com/icon/VMRAbKfEzssG/sqlite"/> </a> 
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://icons8.com/icon/7I3BjCqe9rjG/flutter"/> </a> 
