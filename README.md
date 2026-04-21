@@ -10,7 +10,6 @@
 
 I'm a passionate **Mobile App Developer** from India 🇮🇳, focused on building clean, performant Android applications and developer tooling. I love crafting open-source libraries that make other developers' lives easier.
 
-- 📱 Currently building **[OverlayLogger](https://overlaylogger.io)** — a draggable in-app Logcat-style overlay for Android
 - 👯 Open to collaborating on **open-source Android & mobile projects**
 - 🎯 Focused on: Kotlin · Jetpack Compose · Android SDK
 - 🎸 Fun fact: I play games and love the mouth organ
@@ -48,18 +47,6 @@ I'm a passionate **Mobile App Developer** from India 🇮🇳, focused on buildi
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-<br/>
-
----
-
-## 🚀 Featured Project
-
-<a href="https://github.com/sahil77vishwakarma/overlaylogger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sahil77vishwakarma&repo=overlaylogger&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84" />
-</a>
-
-> **OverlayLogger** — A draggable in-app overlay panel for Android that surfaces real-time logs similar to Logcat. Built for developers, distributed as a public library at `io.overlaylogger`.
 
 <br/>
 
